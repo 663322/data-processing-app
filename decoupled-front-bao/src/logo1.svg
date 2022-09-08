@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="160"
+   height="160"
+   viewBox="0 0 42.333333 42.333333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="logo1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.94867184"
+     inkscape:cx="-189.2119"
+     inkscape:cy="-145.99358"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="73.045769"
+       y="283.23871"
+       width="471.07068"
+       height="198.26709"
+       id="rect2612" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-83.833333,-127.33333)">
+    <circle
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.120508;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path870"
+       cx="105"
+       cy="148.5"
+       r="21.106413" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,76.05138,60.267127)"
+       id="text2610"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2612);fill:#e6e6e6;fill-opacity:1;stroke:none"><tspan
+         x="73.044922"
+         y="319.93789"
+         id="tspan14262"><tspan
+           style="font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console'"
+           id="tspan14260">bao
+</tspan></tspan><tspan
+         x="73.044922"
+         y="370.14428"
+         id="tspan14266"><tspan
+           style="font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console'"
+           id="tspan14264">dp</tspan></tspan></text>
+  </g>
+</svg>
